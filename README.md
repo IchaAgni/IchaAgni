@@ -11,6 +11,11 @@
 - ⚡ Fun fact : **Enjoy my life**
 
 - 🎬 I like to **Watching Film, Movie, Drakor, Drachin, Disney**
+<br><br><br>
+<a href="https://github.com/IchaAgni/">
+   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=IchaAgni&style=flat-square&label=Profile+Views&color=0891b2" />
+</a>
+
 
 <br>
 <h2 align="left"><a href="https://www.dicoding.com/">Dicoding Academy</a> Certificates</h2>
