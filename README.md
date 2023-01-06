@@ -1,4 +1,4 @@
-### Hallo Everyone 👋
+### Hallo Everyone 👋 I'm Nisa,you can call me ICHAAA 👩‍💻
 
 - 💻 I’m a student at **Sekolah Tinggi Teknlogi Cipasung Tasikmalaya**
 
