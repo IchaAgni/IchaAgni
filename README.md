@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hallo Everyone 👋
 
 - 💻 I’m a student at **Sekolah Tinggi Teknlogi Cipasung Tasikmalaya**
 
