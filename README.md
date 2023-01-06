@@ -11,7 +11,6 @@
 - ⚡ Fun fact : **Enjoy my life**
 
 - 🎮 I like to **Watching Film, Movie, Drakor, Drachin, Disney**
-<br><br><br>
 
 <br>
 <h2 align="left"><a href="https://www.dicoding.com/">Dicoding Academy</a> Certificates</h2>
