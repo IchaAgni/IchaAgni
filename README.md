@@ -34,11 +34,16 @@
 
 - <a href="https://www.dicoding.com/certificates/81P282NVOPOY">JavaScript Programming Dasar</a>
 
-- <a href="https://www.dicoding.com/certificates/QLZ92R8J2X5DV">Back-End Web Pemula</a>
+- <a href="https://www.dicoding.com/certificates/QLZ92R8J2X5DV">Back-End Web Pemula dengan AWS</a>
   
 - <a href="https://www.dicoding.com/certificates/72ZD90ME9PYW">Prinsip Pemrograman SOLID</a>
   
 - <a href="https://www.dicoding.com/certificates/MRZM4DWENXYQ">Meniti Karir Sebagai Software Develover</a>
+   
+- <a href="https://www.dicoding.com/certificates/6RPN67YR9P2M">Belajar Dasar Google Cloud</a>
+
+- <a href="https://www.dicoding.com/certificates/JMZVNKQ3QPN9">Back-End untuk Pemula dengan Google Cloud</a>
+   
 </h4>
 
 <br>
