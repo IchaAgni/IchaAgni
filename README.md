@@ -8,43 +8,6 @@
 
 - 🎬 I like to **Watching Film, Movie, Drakor, Drachin, Disney**
 <br><br><br>
-<a href="https://github.com/IchaAgni/">
-   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=IchaAgni&style=flat-square&label=Profile+Views&color=0891b2" />
-</a>
-
-
-<br>
-<h2 align="left"><a href="https://www.dicoding.com/">Dicoding Academy</a> Certificates</h2>
-
-<h4>  
-  
-- <a href="https://www.dicoding.com/certificates/N9ZO70L38ZG5">Logika Pemrograman (Programming Logic 101)</a>
-
-- <a href="https://www.dicoding.com/certificates/ERZRMDKRWPYV">Memulai Dasar Pemrograman Untuk Menjadi Pengembang Software</a>
-  
-- <a href="https://www.dicoding.com/certificates/RVZKKWGGNZD5">Belajar Dasar Git & Github</a>
-
-- <a href="https://www.dicoding.com/certificates/4EXG52QKQXRL">Pemrograman Web Dasar</a>
-
-- <a href="https://www.dicoding.com/certificates/EYX423K96ZDL">Front-End Web Pemula</a>
-
-- <a href="https://www.dicoding.com/certificates/EYX424936ZDL">Fundamental Front-End Web Development</a>
-
-- <a href="https://www.dicoding.com/certificates/MRZM4EDK3XYQ">Front-End Web Developer Expert</a>
-
-- <a href="https://www.dicoding.com/certificates/81P282NVOPOY">JavaScript Programming Dasar</a>
-
-- <a href="https://www.dicoding.com/certificates/QLZ92R8J2X5DV">Back-End Web Pemula dengan AWS</a>
-  
-- <a href="https://www.dicoding.com/certificates/72ZD90ME9PYW">Prinsip Pemrograman SOLID</a>
-  
-- <a href="https://www.dicoding.com/certificates/MRZM4DWENXYQ">Meniti Karir Sebagai Software Develover</a>
-   
-- <a href="https://www.dicoding.com/certificates/6RPN67YR9P2M">Belajar Dasar Google Cloud</a>
-
-- <a href="https://www.dicoding.com/certificates/JMZVNKQ3QPN9">Back-End untuk Pemula dengan Google Cloud</a>
-   
-</h4>
 
 <br>
 <h2 align="left">Statistics</h2>
