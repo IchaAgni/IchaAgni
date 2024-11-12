@@ -7,8 +7,6 @@
 - ⚡ Fun fact : **Enjoy my life**
 
 - 🎬 I like to **Watching Film, Movie, Drakor, Drachin, Disney**
-<br><br><br>
-
 <br>
 <h2 align="left">Statistics</h2>
 <p align="middle">
