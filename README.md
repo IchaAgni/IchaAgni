@@ -1,7 +1,5 @@
 ### Hallo Everyone 👋 I'm Nisa Agni, you can call me ICHAAA 👩‍💻
 
-- 💻 I’m a student at **Sekolah Tinggi Teknlogi Cipasung Tasikmalaya**
-
 - 😄 Pronouns: **She/Her**
 
 - ⚡ Fun fact : **Enjoy my life**
